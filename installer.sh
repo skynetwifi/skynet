@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-set -e
-fi
-
 ARCH=$(uname -m)
 DOCKER_BINARY=/usr/bin/docker
 DOCKER_REPO=homeassistant
